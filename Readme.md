@@ -9,5 +9,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=talhaozbay&limit=5&theme=material-palenight&combine_all_yearly_contributions=true&cache=1800)
 
----
-[![](https://visitcount.itsvg.in/api?id=talhaozbay&icon=2&color=3)](https://visitcount.itsvg.in)
