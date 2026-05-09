@@ -12,13 +12,7 @@
 
 <div align="center">
 
-<!-- Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=talhaozbay&theme=dark&hide_border=false&count_private=true&cache_seconds=86400&v=2)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=talhaozbay&theme=dark&hide_border=false)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaozbay&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 </div>
 
 ---
