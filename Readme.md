@@ -6,7 +6,7 @@
 *Writing code, breaking things, and occasionally fixing them.*
 
 [![Followers](https://img.shields.io/github/followers/talhaozbay?style=for-the-badge&color=ff0033&labelColor=0d0d0d)](https://github.com/talhaozbay?tab=followers)
-[![Repos](https://img.shields.io/badge/Public%20Repos-XX-00ff9f?style=for-the-badge&labelColor=0d0d0d)](https://github.com/talhaozbay?tab=repositories)
+[![Location](https://img.shields.io/badge/🇹🇷%20Türkiye-Based-ff6b35?style=for-the-badge&labelColor=0d0d0d)](https://github.com/talhaozbay)
 
 > *"Try not to be perfect"* - self-injected XSS wisdom
 
@@ -18,18 +18,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-Sharp-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Daily%20Driver-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Obviously-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Home-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 THE NUMBERS (because flexing with data hits different)
+## 📊 THE NUMBERS
 
 <div align="center">
 
@@ -43,18 +42,7 @@
 
 ---
 
-## 🔥 HALL OF DESTRUCTION
-
-> Projects that actually did numbers. Not just "hello world" graveyards.
-
-| 💣 Project | 💬 What it does | ⭐ Stars | 🍴 Forks |
-|:-----------|:----------------|:--------|:---------|
-| [**Proje1**](https://github.com/talhaozbay/proje1) | Kendi proje açıklaman. | 0 | 0 |
-| [**Proje2**](https://github.com/talhaozbay/proje2) | Kendi proje açıklaman. | 0 | 0 |
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -69,17 +57,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhaozbay&theme=react-dark&hide_border=true&area=true)](https://github.com/talhaozbay)
-
-</div>
-
----
-
-## 🌐 FIND ME (if you can)
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-seninmail@example.com-e0d839?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seninmail@example.com)
-[![Twitter/X](https://img.shields.io/badge/X-@kullaniciadin-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kullaniciadin)
 
 </div>
 
