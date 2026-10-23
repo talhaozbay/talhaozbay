@@ -1,0 +1,39 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '17 3 * * *'   # every day, 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/generate-cards.mjs', '.github/workflows/cards.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SVGs
+        run: node scripts/generate-cards.mjs ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update profile cards"
+          git push

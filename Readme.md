@@ -32,11 +32,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhaozbay&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github)](https://github.com/talhaozbay)
+[![GitHub Stats](assets/stats.svg)](https://github.com/talhaozbay) [![Top Langs](assets/top-langs.svg)](https://github.com/talhaozbay)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=talhaozbay&theme=chartreuse-dark&hide_border=true)](https://github.com/talhaozbay)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaozbay&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/talhaozbay)
+[![Streak](assets/streak.svg)](https://github.com/talhaozbay)
 
 </div>
 
@@ -46,7 +44,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=talhaozbay&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/talhaozbay)
+[![Trophies](assets/trophies.svg)](https://github.com/talhaozbay)
 
 </div>
 
@@ -56,7 +54,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhaozbay&theme=react-dark&hide_border=true&area=true)](https://github.com/talhaozbay)
+[![Activity Graph](assets/activity.svg)](https://github.com/talhaozbay)
 
 </div>
 
@@ -64,7 +62,7 @@
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=talhaozbay&icon=5&color=12)](https://visitcount.itsvg.in)
+[![Visitor Count](https://komarev.com/ghpvc/?username=talhaozbay&style=for-the-badge&color=ff0033&label=VISITORS)](https://github.com/talhaozbay)
 
 **`> You've been profiled. No bugs were harmed... much.`**
 
