@@ -7,6 +7,8 @@
 
 [![Followers](https://img.shields.io/github/followers/talhaozbay?style=for-the-badge&color=ff0033&labelColor=0d0d0d)](https://github.com/talhaozbay?tab=followers)
 [![Location](https://img.shields.io/badge/🇹🇷%20Türkiye-Based-ff6b35?style=for-the-badge&labelColor=0d0d0d)](https://github.com/talhaozbay)
+[![Visitor Count](https://komarev.com/ghpvc/?username=talhaozbay&style=for-the-badge&color=ff0033&label=VISITORS)](https://github.com/talhaozbay)
+
 
 > *"Try not to be perfect"* - self-injected XSS wisdom
 
@@ -14,7 +16,7 @@
 
 ---
 
-## ⚡ ARSENAL
+<!-- ## ⚡ ARSENAL
 
 <div align="center">
 
@@ -24,7 +26,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</div>
+</div> -->
 
 ---
 
@@ -60,10 +62,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=talhaozbay&style=for-the-badge&color=ff0033&label=VISITORS)](https://github.com/talhaozbay)
-
 **`> You've been profiled. No bugs were harmed... much.`**
 
-</div>
+</div> -->
