@@ -40,6 +40,6 @@
 <g>
   <text x="20" y="196" font-size="12" fill="#7d8590"><tspan fill="#00aeff">$</tspan> public repos</text>
   <line x1="131.6" y1="192" x2="404.4" y2="192" stroke="#262626" stroke-dasharray="1 4"/>
-  <text x="430" y="196" font-size="13" font-weight="700" text-anchor="end" fill="#e6e6e6">24</text>
+  <text x="430" y="196" font-size="13" font-weight="700" text-anchor="end" fill="#e6e6e6">23</text>
 </g>
 </svg>
